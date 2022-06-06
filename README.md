@@ -1,4 +1,4 @@
-# Olá, eu sou João Ferraz!
+# Olá, eu sou João Ferraz, estudante de desenvolvimento web!
 
 Quando mais novo trabalhei em alguns projetos envolvendo desenvolvimento de Software, adquirindo conhecimentos acerca de lógica de programação e linguagem LUA.
 
@@ -8,11 +8,15 @@ Atualmente me encontro retornando para área de tecnologia através da <a href="
 
 Não perca a oportunidade de dar uma olhadinha no meu [portfólio](https://jgabrielfes.vercel.app/).
 
-<div align="center">
+## Estatísticas
+
+<div>
   <img height="150" hspace="10" src="https://github-readme-stats.vercel.app/api?username=jgabrielfes&title_color=80c0ff&text_color=eeeeee&show_icons=true&bg_color=0,141e30,243b55&hide_border=true&locale=pt-br&border_radius=20"/><img height="150" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgabrielfes&title_color=80c0ff&text_color=eeeeee&bg_color=0,141e30,243b55&hide_border=true&locale=pt-br&border_radius=17&layout=compact"/>
 </div>
-<br>
-<div align="center">
+
+## Dev Tools
+
+<div>  
   <img height="50" alt="HTML Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&emsp;<img height="50" alt="CSS Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&emsp;<img height="50" alt="Javascript Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&emsp;<img height="50" alt="Jest Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>&emsp;<img height="50" alt="React Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&emsp;<img height="50" alt="Redux Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>&emsp;<img height="50" alt="Material UI Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>&emsp;<img height="50" alt="Docker Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&emsp;<img height="50" alt="MySQL Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </div>
 
