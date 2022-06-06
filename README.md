@@ -4,9 +4,9 @@ Quando mais novo trabalhei em alguns projetos envolvendo desenvolvimento de Soft
 
 Hoje sou graduado em Física - Licenciatura pela Universidade Estadual do Sudoeste da Bahia (UESB). Cheguei a estagiar na área de educação, adquirindo habilidades e competências de comunicação, liderança e didática de ensino.
 
-Atualmente me encontro retornando para área de tecnologia através da <a href="https://www.betrybe.com/">Trybe</a>, buscando um estudo formal para me tornar um desenvolver web full-stack. Estou em busca de uma oportunidade em que eu possa contribuir de forma produtiva e que agregue valores em minha vida.
+Atualmente me encontro retornando para área de tecnologia através da [Trybe :green_heart:](https://www.betrybe.com/), buscando um estudo formal para me tornar um desenvolver web full-stack. Estou em busca de uma oportunidade em que eu possa contribuir de forma produtiva e que agregue valores em minha vida.
 
-Não perca a oportunidade de dar uma olhadinha no meu [portfólio](https://jgabrielfes.vercel.app/).
+Não perca a oportunidade de dar uma olhadinha no meu [portfólio :bookmark_tabs:](https://jgabrielfes.vercel.app/).
 
 ## Estatísticas
 
@@ -17,7 +17,7 @@ Não perca a oportunidade de dar uma olhadinha no meu [portfólio](https://jgabr
 ## Dev Tools
 
 <div>  
-  <img height="50" alt="HTML Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&emsp;<img height="50" alt="CSS Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&emsp;<img height="50" alt="Javascript Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&emsp;<img height="50" alt="Jest Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>&emsp;<img height="50" alt="React Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&emsp;<img height="50" alt="Redux Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>&emsp;<img height="50" alt="Material UI Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>&emsp;<img height="50" alt="Docker Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>&emsp;<img height="50" alt="MySQL Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="50" hspace="10" alt="HTML Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height="50" hspace="10" alt="CSS Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><img height="50" hspace="10" alt="Javascript Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height="50" hspace="10" alt="Jest Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/><img height="50" hspace="10" alt="React Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><img height="50" hspace="10" alt="Redux Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/><img height="50" hspace="10" alt="Material UI Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/><img height="50" hspace="10" alt="Docker Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><img height="50" hspace="10" alt="MySQL Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </div>
 
 ## Social
