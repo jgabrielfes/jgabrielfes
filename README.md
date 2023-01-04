@@ -1,4 +1,4 @@
-# Olá, eu sou João Ferraz, estudante de desenvolvimento web!
+# Olá, eu sou João Ferraz, desenvolvedor web fullstack!
 
 Quando mais novo trabalhei em alguns projetos envolvendo desenvolvimento de Software, adquirindo conhecimentos acerca de lógica de programação e linguagem LUA.
 
